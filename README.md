@@ -8,3 +8,4 @@ idea
 atom
 riot
 wechat
+tencent
