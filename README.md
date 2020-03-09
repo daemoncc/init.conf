@@ -9,3 +9,4 @@ atom
 riot
 wechat
 tencent
+discourd
