@@ -11,3 +11,4 @@ wechat
 tencent
 discourd
 java
+rust
