@@ -5,3 +5,4 @@ tmux
 typo
 vscode
 idea
+atom
