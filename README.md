@@ -4,3 +4,4 @@ vim
 tmux
 typo
 vscode
+idea
