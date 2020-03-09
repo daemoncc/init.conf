@@ -10,3 +10,4 @@ riot
 wechat
 tencent
 discourd
+java
