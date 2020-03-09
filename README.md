@@ -1,1 +1,4 @@
 # init.conf
+
+vim
+tmux
