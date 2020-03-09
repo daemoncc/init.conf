@@ -6,3 +6,4 @@ typo
 vscode
 idea
 atom
+riot
